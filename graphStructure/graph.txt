@@ -1,0 +1,6 @@
+nigde konya 120
+konya istanbul 40
+istanbul nigde 50
+nigde ankara 55
+ankara konya 35
+

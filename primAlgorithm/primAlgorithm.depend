@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650190829 source:c:\users\berat\documents\codeblocks\primalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

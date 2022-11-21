@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637127853 source:c:\users\berat\documents\codeblocks\kuyrukson\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637128960 source:c:\users\berat\documents\codeblocks\kuyruk_odev_son\main.c
+	<stdio.h>
+	<stdlib.h>
+

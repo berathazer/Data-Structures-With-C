@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647798021 source:c:\users\berat\documents\codeblocks\graf-odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

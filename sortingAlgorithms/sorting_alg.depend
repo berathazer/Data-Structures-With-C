@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642948089 source:c:\users\berat\documents\codeblocks\sorting_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+

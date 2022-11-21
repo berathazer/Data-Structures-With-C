@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1638636739 source:c:\users\berat\documents\codeblocks\agacyapisiodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669011832 source:c:\users\berat\desktop\data-structures\agacyapisiodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669048827 source:c:\users\berat\desktop\data-structures\filestructuretree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

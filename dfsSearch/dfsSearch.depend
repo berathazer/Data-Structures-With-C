@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669050418 source:c:\users\berat\documents\codeblocks\dfssearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

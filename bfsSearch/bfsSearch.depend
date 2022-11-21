@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669048626 source:c:\users\berat\documents\codeblocks\bfssearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

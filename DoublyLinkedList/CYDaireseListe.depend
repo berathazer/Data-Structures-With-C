@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635542887 source:c:\users\berat\documents\codeblocks\cydaireseliste\main.c
+	<stdio.h>
+	<stdlib.h>
+
